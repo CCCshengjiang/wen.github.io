@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>欢迎来到陈文博的博客网站</title>
+  <icon>https://www.gravatar.com/avatar/05cbb40cbc69019beafe422eb53adae3</icon>
+  
+  <link href="https://cccshengjiang.github.io/wen.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://cccshengjiang.github.io/wen.github.io/"/>
+  <updated>2023-11-09T12:11:35.324Z</updated>
+  <id>https://cccshengjiang.github.io/wen.github.io/</id>
+  
+  <author>
+    <name>Chen Wenbo</name>
+    <email>123shengjiang@gmail.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>欢迎来到陈文博的个人博客</title>
+    <link href="https://cccshengjiang.github.io/wen.github.io/2023/11/09/hello-world/"/>
+    <id>https://cccshengjiang.github.io/wen.github.io/2023/11/09/hello-world/</id>
+    <published>2023-11-09T10:18:16.405Z</published>
+    <updated>2023-11-09T12:11:35.324Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎来到我的个人博客，目前博客正在处于搭建阶段，内容随时更新！</p><h2 id="个人介绍"><a href="#个人介绍" class="headerlink" title="个人介绍"></a>个人介绍</h2><h3 id="我的CSDN"><a href="#我的CSDN" class="headerlink" title="我的CSDN"></a>我的CSDN</h3><p>博客链接: <a href="https://blog.csdn.net/weixin_54620350">不爱生姜不吃醋</a></p><p>我是一名Java开发人员，主要涉及内容是Java后端。博客内容涵盖Java的程序设计还有算法，当然也零零散散还写了一些C++和python方面的内容，感兴趣的话看一看看哦！</p><h3 id="我的GitHub"><a href="#我的GitHub" class="headerlink" title="我的GitHub"></a>我的GitHub</h3><p>链接：<a href="https://github.com/CCCshengjiang">CCCshengjiang</a></p><p>GitHub里面上传了我的一些开源项目，包括基于JavaSE和GUI的拼图小游戏、算法笔记和源代码、开源项目日程管理（在写）…</p><p>有需要或者感兴趣的可以clone一下哦！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;欢迎来到我的个人博客，目前博客正在处于搭建阶段，内容随时更新！&lt;/p&gt;
+&lt;h2 id=&quot;个人介绍&quot;&gt;&lt;a href=&quot;#个人介绍&quot; class=&quot;headerlink&quot; title=&quot;个人介绍&quot;&gt;&lt;/a&gt;个人介绍&lt;/h2&gt;&lt;h3 id=&quot;我的CSDN&quot;&gt;&lt;a href=&quot;#</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
