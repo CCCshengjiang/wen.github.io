@@ -1,35 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>欢迎来到陈文博的博客网站</title>
+  <title>欢迎来到陈文博的个人网站</title>
   <icon>https://www.gravatar.com/avatar/05cbb40cbc69019beafe422eb53adae3</icon>
   
   <link href="https://cccshengjiang.github.io/wen.github.io/atom.xml" rel="self"/>
   
   <link href="https://cccshengjiang.github.io/wen.github.io/"/>
-  <updated>2023-11-09T12:11:35.324Z</updated>
+  <updated>2023-11-10T10:07:53.216Z</updated>
   <id>https://cccshengjiang.github.io/wen.github.io/</id>
   
   <author>
-    <name>Chen Wenbo</name>
+    <name>陈文博</name>
     <email>123shengjiang@gmail.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>欢迎来到陈文博的个人博客</title>
+    <title>欢迎来到陈文博的个人网站</title>
     <link href="https://cccshengjiang.github.io/wen.github.io/2023/11/09/hello-world/"/>
     <id>https://cccshengjiang.github.io/wen.github.io/2023/11/09/hello-world/</id>
     <published>2023-11-09T10:18:16.405Z</published>
-    <updated>2023-11-09T12:11:35.324Z</updated>
+    <updated>2023-11-10T10:07:53.216Z</updated>
     
-    <content type="html"><![CDATA[<p>欢迎来到我的个人博客，目前博客正在处于搭建阶段，内容随时更新！</p><h2 id="个人介绍"><a href="#个人介绍" class="headerlink" title="个人介绍"></a>个人介绍</h2><h3 id="我的CSDN"><a href="#我的CSDN" class="headerlink" title="我的CSDN"></a>我的CSDN</h3><p>博客链接: <a href="https://blog.csdn.net/weixin_54620350">不爱生姜不吃醋</a></p><p>我是一名Java开发人员，主要涉及内容是Java后端。博客内容涵盖Java的程序设计还有算法，当然也零零散散还写了一些C++和python方面的内容，感兴趣的话看一看看哦！</p><h3 id="我的GitHub"><a href="#我的GitHub" class="headerlink" title="我的GitHub"></a>我的GitHub</h3><p>链接：<a href="https://github.com/CCCshengjiang">CCCshengjiang</a></p><p>GitHub里面上传了我的一些开源项目，包括基于JavaSE和GUI的拼图小游戏、算法笔记和源代码、开源项目日程管理（在写）…</p><p>有需要或者感兴趣的可以clone一下哦！</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="关于我的网站"><a href="#关于我的网站" class="headerlink" title="关于我的网站"></a>关于我的网站</h1><p>​欢迎来到我的个人网站，这个网站作为我的第一个小项目，内容不做技术也不做笔记分享，只是关于“我”！通过网站联系我的方式包括QQ、微信、Email等多个平台，我还在后面附上了我的CSDN博客链接和GitHub的地址，有感兴趣的朋友可以看看！</p><p>​其中CSDN里的内容是刚开始学习Java时写的笔记，都是一些很基础的东西，比如基于JavaSE的学籍管理系统、购书系统等，还有一些零碎的知识分享，比如算法基础、C++基础、Python基础等。后面因为随着我学的东西越来越多，我做的总结都保存在本地，看看什么时候有时间再上传吧！</p><p>​GitHub会上传一些我准备开源的项目，目前已有的包括基于JavaWeb的日程管理系统、基于JavaSE和GUI的拼图小游戏、数据结构与算法的笔记和源代码，还有一个就是我的小网站啦！</p><p>​网站里还有一些小彩蛋等着你去发现哦，比如：点击屏幕就会出现爱心、网站封面会有一些有意思的话、点击右下角的齿轮会有切换繁体的功能……hhh，更多有趣的还等你要自己挖掘哦！至于打赏功能，我开通只是想显示一下我的技术，没有别的含义，不要打赏也不要把我的二维码分享到别处哦！</p><p>​这个网站后期可能不会更新，一个原因是我没给这个网站写后端，它只是作为一个静态页面挂在服务器上，用的是Hexo+GitHub。所以如果我要修改内容或者上传文件会耗费时间。还有一个原因是我目前在准备校招，不打算在个人网站消耗太多精力，点到为止，应该能懂我吧哈哈哈！</p><h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><h3 id="我的CSDN"><a href="#我的CSDN" class="headerlink" title="我的CSDN"></a>我的CSDN</h3><p>博客链接: <a href="https://blog.csdn.net/weixin_54620350">不爱生姜不吃醋</a></p><h3 id="我的GitHub"><a href="#我的GitHub" class="headerlink" title="我的GitHub"></a>我的GitHub</h3><p>链接：<a href="https://github.com/CCCshengjiang">CCCshengjiang</a></p><p>目前只放这两个平台的链接，因为关于技术的全在上面啦，至于别的平台……什么？你还想偷窥我的生活！不可能！绝对不可能！！！</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;欢迎来到我的个人博客，目前博客正在处于搭建阶段，内容随时更新！&lt;/p&gt;
-&lt;h2 id=&quot;个人介绍&quot;&gt;&lt;a href=&quot;#个人介绍&quot; class=&quot;headerlink&quot; title=&quot;个人介绍&quot;&gt;&lt;/a&gt;个人介绍&lt;/h2&gt;&lt;h3 id=&quot;我的CSDN&quot;&gt;&lt;a href=&quot;#</summary>
+    <summary type="html">&lt;h1 id=&quot;关于我的网站&quot;&gt;&lt;a href=&quot;#关于我的网站&quot; class=&quot;headerlink&quot; title=&quot;关于我的网站&quot;&gt;&lt;/a&gt;关于我的网站&lt;/h1&gt;&lt;p&gt;​		欢迎来到我的个人网站，这个网站作为我的第一个小项目，内容不做技术也不做笔记分享，只是关于“我”！通过网</summary>
       
     
     
